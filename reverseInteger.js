@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #10 - Reverse Integers
+ * Reverse Integers
  * 
  * Write a function that takes an integer as argument and returns that integer but reversed.
  * 
