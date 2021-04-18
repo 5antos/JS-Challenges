@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #1 - Longest String in Array
+ * Longest String in Array
  * 
  * Write a function that accepts an array of strings.
  * Return the longest string.
