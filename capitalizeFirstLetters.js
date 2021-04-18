@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #11 - Capitalize First Letters
+ * Capitalize First Letters
  * 
  * Write a function that takes a string as argument and returns that string with the first letter of every word capitalized.
  * 
