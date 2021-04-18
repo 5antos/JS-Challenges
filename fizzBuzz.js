@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #7 - FizzBuzz
+ * Fizz buzz
  * 
  * Write a function that logs the numbers from 1 to n, where n is the integer the function takes as its parameter.
  * Logs fizz instead of the number for multiples of 3.
