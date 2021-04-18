@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #9 - Fibonacci
+ * Fibonacci
  * 
  * Write a function that returns the nth entry in the Fibonacci sequence, where n is a number passed in as argument to the function.
  * 
