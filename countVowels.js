@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #8 - Find the Vowels
+ * Find the Vowels
  * 
  * Write a function that takes a string as argument and returns the number of vowels contained in that string.
  * 
