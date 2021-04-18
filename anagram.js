@@ -1,5 +1,5 @@
 /**
- * Coding Challenge #3 - Two Strings Are Anagrams of Each Other
+ * Two Strings Are Anagrams of Each Other
  * 
  * Create a function that takes in two strings as two parameters
  * and returns a boolean that indicates whether or not the first string is an anagram of the second string.
